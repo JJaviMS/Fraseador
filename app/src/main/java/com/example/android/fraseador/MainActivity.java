@@ -25,7 +25,8 @@ public class MainActivity extends AppCompatActivity {
                 "Hoy va a ser un buen dia",
                 "ASDF",
                 "1234",
-        "String"});
+                "String",
+                "Prueba"});
     }
     public void displayText(String frase){
         TextView texto = (TextView) findViewById(R.id.texto);
